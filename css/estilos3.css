@@ -1,0 +1,101 @@
+ .icono{
+    width: 100%;
+    background:red ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+}
+
+.icono1{
+    width: 230px;
+    text-align: center;
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.icono1 h4{
+    font-family: 'Dosis', sans-serif;
+    font-size: 12px;
+    }
+
+
+
+
+#celular {
+   width:100%;
+   background: #D3F0F6;
+   margin: auto;
+   display:flex;
+   flex-wrap: wrap; 
+   justify-content:center;
+
+}
+#celular .colum1{
+	background:#D7E1F2;
+	width:306px;
+	height: 400px;
+	float: right;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.colum1 img{
+    
+    width: 11px;
+    height: 11px;
+    text-align: right;
+}
+#celular .colum2{
+	background:#D7E1F2;
+	width:306px;
+	height: 400px;
+	text-align: center;
+	padding: 10px;
+    font-family: sans-serif;
+}
+
+#celular .colum3{
+	background:#D7E1F2;
+	width:306px;
+	height: 400px;
+	float: left;
+	padding-left: 30px;
+}
+
+.section {
+	background: orange;
+	width: 250px;
+	height: 50px;
+	
+}
+.section h1{
+	background:orange;
+	width: 250
+
+	text-align: left;
+	color:white;
+	font-family: sans-serif;
+	margin-top: 60px;
+    
+}
+ .ofertas {
+
+	width:920px;
+	height:150px;
+	background: white;
+	margin: auto;
+	padding-left: 50px;
+	padding-top: 50px;
+    font-family: 'Lobster', cursive;
+    color: red;
+}
+
+ .img{
+
+    margin-right: 20px;
+    
+}
+
+
+
